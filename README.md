@@ -1,8 +1,9 @@
 # Credit-Market Participation and Financing Constraints among Moroccan Firms: Firm-Level Transitions and Temporal Predictability
 
 ## Authors
-- Lotfi Said
-- Nadir Younes
+1. Younes Nadir (Corresponding author - younes.nadir@univh2c.ma)
+2. Mohamed Rachdi
+3. Lotfi Said
 
 ## Repository Purpose
 This is the official reproducibility repository for the manuscript: *Credit-Market Participation and Financing Constraints among Moroccan Firms: Firm-Level Transitions and Temporal Predictability*. It contains the source code, configurations, aggregate results, and testing suites necessary to understand and independently verify the analysis pipelines used in the study.
@@ -38,4 +39,4 @@ Please see `CITATION.cff` or cite the published manuscript (once available).
 The code in this repository is licensed under the MIT License (see `LICENSE`). Note that this license applies **only** to the repository code and does not grant any rights to the World Bank Enterprise Survey data.
 
 ## Contact
-For questions regarding the methodology or codebase, please contact the corresponding author, Lotfi Said.
+For questions regarding the methodology or codebase, please contact the corresponding author, Younes Nadir (younes.nadir@univh2c.ma).
