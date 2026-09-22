@@ -2,8 +2,8 @@
 
 ## Authors
 1. Younes Nadir (Corresponding author - younes.nadir@univh2c.ma)
-2. Mohamed Rachdi
-3. Lotfi Said
+2. Lotfi Said
+3. Asmaa BEDOUANE
 
 ## Repository Purpose
 This is the official reproducibility repository for the manuscript: *Credit-Market Participation and Financing Constraints among Moroccan Firms: Firm-Level Transitions and Temporal Predictability*. It contains the source code, configurations, aggregate results, and testing suites necessary to understand and independently verify the analysis pipelines used in the study.
