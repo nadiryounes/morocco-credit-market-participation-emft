@@ -1,0 +1,14 @@
+data_root: "../data"
+output_dir: "../outputs"
+random_seed: 2026
+cv_seeds: [2026, 2027, 2028, 2029, 2030]
+models: ["LR", "EBM", "CatBoost"]
+features:
+  - EMPLOYMENT
+  - FIRM_AGE
+  - DIRECT_EXPORT_SHARE_PCT
+  - FEMALE_OWNER
+  - EXTERNAL_AUDIT
+  - ELEC_OBSTACLE
+  - SECTOR
+  - REGION
