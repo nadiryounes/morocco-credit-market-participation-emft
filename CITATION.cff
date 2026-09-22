@@ -1,9 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
+- family-names: "Nadir"
+  given-names: "Younes"
+- family-names: "Rachdi"
+  given-names: "Mohamed"
 - family-names: "Said"
   given-names: "Lotfi"
-- family-names: "Younes"
-  given-names: "Nadir"
 title: "Credit-Market Participation and Financing Constraints among Moroccan Firms: Firm-Level Transitions and Temporal Predictability"
 date-released: 2026-09-22
